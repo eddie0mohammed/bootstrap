@@ -1,0 +1,17 @@
+{
+  "name": "Glozzom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o ./css/ --recursive"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jquery": "^3.4.0",
+    "node-sass": "^4.11.0",
+    "popper.js": "^1.15.0"
+  }
+}
